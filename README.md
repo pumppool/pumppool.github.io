@@ -1,3 +1,3 @@
 <p align="center">
-    // # PUMP Stake Pool
+    # PUMP Stake Pool
 </p>
